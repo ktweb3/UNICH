@@ -3,7 +3,7 @@
 - **自动完成任务**
 - **每日自动开始挖矿**
 - **支持多账户**
-- 
+
 ## 注册/登录
 - 访问此处 [https://unich.com/en/airdrop](https://unich.com/en/airdrop/sign-up?ref=KCN08T) 注册或登录
 - 登录后按 F12 打开开发者工具获取token
