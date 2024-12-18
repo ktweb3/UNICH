@@ -27,3 +27,20 @@
    ```bash
    python main.py
    ```
+
+
+// ... existing code ...
+
+## Docker 部署
+
+1. 构建 Docker 镜像：
+   ```bash
+   docker build -t unich-docker .
+   ```
+
+2. 运行容器，并映射 tokens.txt：
+   ```bash
+   docker run -d --name unich-miner -v /path/to/your/tokens.txt:/app/tokens.txt unich-docker
+   ```
+
+// ... existing code ...
